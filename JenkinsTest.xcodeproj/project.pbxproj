@@ -412,6 +412,7 @@
 		186B36DC17673CEB00DFC2D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTest/JenkinsTest-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsTest/JenkinsTest-Info.plist";
@@ -423,6 +424,7 @@
 		186B36DD17673CEB00DFC2D7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTest/JenkinsTest-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsTest/JenkinsTest-Info.plist";
@@ -484,6 +486,7 @@
 				186B36DD17673CEB00DFC2D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		186B36DE17673CEB00DFC2D7 /* Build configuration list for PBXNativeTarget "JenkinsTestTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +495,7 @@
 				186B36E017673CEB00DFC2D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
