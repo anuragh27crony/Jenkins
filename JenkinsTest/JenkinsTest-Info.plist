@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>JenkinsTest</string>
 	<key>CFBundleIdentifier</key>
 	<string>COM.Zevenseas.JenkinsTest</string>
 	<key>CFBundleInfoDictionaryVersion</key>
