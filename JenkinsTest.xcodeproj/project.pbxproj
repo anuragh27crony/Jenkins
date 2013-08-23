@@ -412,12 +412,12 @@
 		186B36DC17673CEB00DFC2D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: codezeven BV";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Daniel McPherson (4P72Y5MY96)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTest/JenkinsTest-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsTest/JenkinsTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "2C8F45B0-3CD8-4C24-B0DA-0D2890D03A4F";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -425,12 +425,12 @@
 		186B36DD17673CEB00DFC2D7 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Distribution: codezeven BV";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Daniel McPherson (4P72Y5MY96)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTest/JenkinsTest-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsTest/JenkinsTest-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "2C8F45B0-3CD8-4C24-B0DA-0D2890D03A4F";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
